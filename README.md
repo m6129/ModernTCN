@@ -1,6 +1,6 @@
 # ModernTCN (ICLR 2024 Spotlight)
 This is an official implementation of paper: [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU#).
-
+[ссылка на pdf](https://openreview.net/pdf?id=vpJMJerXHU)
 ## Our Paper
 Donghao Luo and Xue Wang. ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis. In International Conference on Learning Representations, 2024.
 [[Our paper in OpenReview]](https://openreview.net/forum?id=vpJMJerXHU#).
